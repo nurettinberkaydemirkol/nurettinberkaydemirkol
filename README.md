@@ -8,7 +8,7 @@
 
 ## My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOEStudio)](https://github.com/BOEStudio/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaydmrkl)](https://github.com/berkaydmrkl/github-readme-stats)
 
 ## My Accounts
 
