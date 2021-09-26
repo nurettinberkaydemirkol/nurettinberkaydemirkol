@@ -22,7 +22,7 @@
 
 ## My Insta Bot __[Chiico][ai]__
 
-- Can share posts I like
+- Can share posts I liked/saved
 - Able to set tags according to interaction
 - Can send message anyone I want
 - Can access data on my follower list
