@@ -1,5 +1,5 @@
 
-## I'm a Developer and Student!
+## I'm a Developer and Software Engineering Student!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking for projects I can join
