@@ -39,4 +39,4 @@
 [website]: https://nepcen.net/
 [Instagram]: https://www.instagram.com/dmrklberkay/
 [ai]: https://www.instagram.com/chiico_ai/
-[upwork]: https://www.upwork.com/o/profiles/users/~012e5e843783e57319/
+[upwork]: https://www.upwork.com/o/profiles/users/~012e5e843783e57319/?s=996364627857502208
