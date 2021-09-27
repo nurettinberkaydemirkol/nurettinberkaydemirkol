@@ -29,7 +29,8 @@
 - Can access data on my follower list
 
 ## HEHE :)
-![giphy](https://user-images.githubusercontent.com/90573081/134808712-a53958a7-f11e-4379-a9ae-ef5f586c7742.gif)
+![giphy (1)](https://user-images.githubusercontent.com/90573081/134888770-ccc30e40-d02a-4e04-a2ea-a43fb4393ca9.gif)
+
 
 
 
