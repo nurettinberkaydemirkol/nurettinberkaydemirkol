@@ -1,5 +1,5 @@
 
-## I'm a Developer and Software Engineering Student!
+## I'm a Developer and Software Engineering Student
 
 - 🌱 I’m currently learning NodeJS
 - 🥅 2022-2023 Goals: Work on Games and Web Applications
