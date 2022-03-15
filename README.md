@@ -16,16 +16,6 @@
 - __[My Comics][comic]__
 
 
-
-
-
-## My Insta Bot __[Chiico][ai]__
-
-- Can share posts I liked/saved
-- Able to set tags according to interaction
-- Can send message anyone I want
-- Can access data on my follower list
-
 ## HEHE :)
 ![giphy (1)](https://user-images.githubusercontent.com/90573081/134888770-ccc30e40-d02a-4e04-a2ea-a43fb4393ca9.gif)
 
