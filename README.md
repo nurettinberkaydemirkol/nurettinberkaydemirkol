@@ -13,8 +13,6 @@
 
 - __[Play Store][playstore]__
 - __[Instagram][instagram]__
-- __[Website][website]__
-- __[Upwork][upwork]__
 - __[My Comics][comic]__
 
 
@@ -37,8 +35,5 @@
 
 
 [playstore]: https://play.google.com/store/apps/dev?id=7683105670624146264&hl=tr&gl=US
-[website]: https://nepcen.net/
 [Instagram]: https://www.instagram.com/dmrklberkay/
-[ai]: https://www.instagram.com/chiico_ai/
-[upwork]: https://www.upwork.com/o/profiles/users/~012e5e843783e57319/?s=996364627857502208
 [comic]: https://www.instagram.com/berkaydmrklkarikatur/
