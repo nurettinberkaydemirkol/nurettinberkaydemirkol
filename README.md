@@ -1,7 +1,7 @@
 
 ## I'm a Developer and Software Engineering Student!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning NodeJS
 - 🥅 2022-2023 Goals: Work on Games and Web Applications
 - ⚡ Fun fact: I love to draw, searching something and coding
 
