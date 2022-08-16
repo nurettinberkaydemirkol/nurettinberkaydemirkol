@@ -24,6 +24,5 @@
 
 
 
-[playstore]: https://play.google.com/store/apps/dev?id=7683105670624146264&hl=tr&gl=US
 [Instagram]: https://www.instagram.com/dmrklberkay/
 [comic]: https://www.instagram.com/berkaydmrklkarikatur/
