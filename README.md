@@ -11,7 +11,6 @@
 
 ## My Accounts
 
-- __[Play Store][playstore]__
 - __[Instagram][instagram]__
 - __[My Comics][comic]__
 
