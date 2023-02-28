@@ -1,5 +1,7 @@
 
 ## About Me
+Hello, I'm N. Berkay Demirkol. I'll be sharing some of the things I've developed and written here as open source. Have fun!
+
 - Web, Backend and Game Developer
 - Software Engineer
 
