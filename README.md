@@ -13,6 +13,7 @@ Hello, I'm N. Berkay Demirkol. I'll be sharing some of the things I've developed
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blueviolet)
 ![PHP](https://img.shields.io/badge/-PHP-purple)
+![Python](https://img.shields.io/badge/-Python-black)
 
 ## Tools and Technologies
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green)
@@ -21,6 +22,7 @@ Hello, I'm N. Berkay Demirkol. I'll be sharing some of the things I've developed
 ![Cordova](https://img.shields.io/badge/-Cordova-lightgrey)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-green)
 ![SocketIO](https://img.shields.io/badge/-SocketIO-grey)
+![Flask](https://img.shields.io/badge/-Flask-black)
 
 ## My Stats
 
