@@ -2,7 +2,6 @@
 ## About Me
 - Web, Backend and Game Developer
 - Software Engineer
-- Knows something about everything and everything about something
 
 ## Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
