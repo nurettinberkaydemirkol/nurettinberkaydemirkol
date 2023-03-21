@@ -24,9 +24,3 @@ Hello, I'm N. Berkay Demirkol. I'll be sharing some of the things I've developed
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-green)
 ![SocketIO](https://img.shields.io/badge/-SocketIO-grey)
 ![Flask](https://img.shields.io/badge/-Flask-black)
-
-## My Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaydmrkl)](https://github.com/berkaydmrkl/github-readme-stats)
-
-
