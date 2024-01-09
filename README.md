@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurettinberkaydemirkol&label=Profile%20views&color=0e75b6&style=flat" alt="nurettinberkaydemirkol" /> </p>
 
-- 🔭 I’m currently working on **RateFrame app**
+- 🔭 I’m currently working on **RateFrame social media app**
 
 - 🌱 I’m currently learning **SpringBoot and Rust**
 
