@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurettinberkaydemirkol&label=Profile%20views&color=0e75b6&style=flat" alt="nurettinberkaydemirkol" /> </p>
 
-- 🔭 I’m currently working on **RateFrame social media app**
+- 🔭 I’m currently working on **Selfcrypted Messenger App**
 
-- 🌱 I’m currently learning **SpringBoot and Rust**
+- 🌱 I’m currently learning **DevOps and Rust**
 
 - 💬 Ask me about **Unity, NodeJS and Docker**
 
