@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurettin Berkay DEMİRKOL</h1>
-<h3 align="center">A Game and Backend Developer from Turkiye</h3>
+<h3 align="center">🚀 Full Stack Developer | Software Engineer | Augmented Reality Innovator in Unity | Currently Developing Selfcrypted Encrypted Messenger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurettinberkaydemirkol&label=Profile%20views&color=0e75b6&style=flat" alt="nurettinberkaydemirkol" /> </p>
 
