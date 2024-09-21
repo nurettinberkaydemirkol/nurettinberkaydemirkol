@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Selfcrypted Messenger](https://play.google.com/store/apps/details?id=com.selfcrypted&gl=TR)
 
-- 🌱 I’m currently learning **DevOps and Backend**
+- 🌱 I’m currently learning **Elixir 🟣**
 
 - 💬 Ask me about **NodeJS, Docker and Unity**
 
