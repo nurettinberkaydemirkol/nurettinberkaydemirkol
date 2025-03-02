@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurettin Berkay DEMİRKOL</h1>
-<h3 align="center">🚀 Full Stack Developer | Software Engineer | Augmented Reality Innovator in Unity | Currently Developing Selfcrypted Encrypted Messenger</h3>
+<h3 align="center">🚀 Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurettinberkaydemirkol&label=Profile%20views&color=0e75b6&style=flat" alt="nurettinberkaydemirkol" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Selfcrypted Messenger](https://play.google.com/store/apps/details?id=com.selfcrypted&gl=TR)
 
-- 🌱 I’m currently learning **Elixir 🟣**
+- 🌱 I’m currently learning **Rust and Assembly 🦀**
 
-- 💬 Ask me about **NodeJS, Docker and Unity**
+- 💬 Ask me about **Web Apps, Mobile Apps and Game Development**
 
 - 📫 How to reach me **berkaydemirkol2@gmail.com**
 
