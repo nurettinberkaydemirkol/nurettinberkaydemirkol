@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/selfcrypted" target="blank"><img src="https://img.shields.io/twitter/follow/selfcrypted?logo=twitter&style=for-the-badge" alt="selfcrypted" /></a> </p>
 
-- 🔭 I’m currently working on [Selfcrypted Messenger](https://play.google.com/store/apps/details?id=com.selfcrypted&gl=TR)
-
 - 🌱 I’m currently learning **Rust and Assembly 🦀**
 
 - 💬 Ask me about **Web Apps, Mobile Apps and Game Development**
-
-- 📫 How to reach me **berkaydemirkol2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
