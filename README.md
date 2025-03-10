@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/selfcrypted" target="blank"><img src="https://img.shields.io/twitter/follow/selfcrypted?logo=twitter&style=for-the-badge" alt="selfcrypted" /></a> </p>
 
-- 🌱 I’m currently learning **Rust 🦀 and Assembly 🧌**
+- **Rust 🦀 and Assembly 🧌**
 
 - 💬 Ask me about **Web Apps, Mobile Apps and Game Development**
 
