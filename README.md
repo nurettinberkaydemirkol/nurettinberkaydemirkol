@@ -1,2 +1,9 @@
-<h3 align="center">It's Nurettin Berkay DEMİRKOL</h3>
+# it's Nurettin Berkay Demirkol
 
+I am a software engineer with a strong interest in artificial intelligence.  
+Currently, I work as a FullStack developer at a company, while independently conducting research on self-learning models in the field of AI.
+
+I'm developing a self-learning AI model called **SAVM**, designed to adapt and improve autonomously.  
+In addition, I'm building a lightweight and minimal vector search engine named **Scehamntic**, inspired by FAISS and tailored for semantic web search.
+
+Feel free to connect or explore more of my work!
