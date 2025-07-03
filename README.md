@@ -6,4 +6,4 @@ Currently, I work as a FullStack developer at a company, while independently con
 I'm developing a self-learning AI model called **SAVM**, designed to adapt and improve autonomously.  
 In addition, I'm building a lightweight and minimal vector search engine named **Scheamntic**, inspired by FAISS and tailored for semantic web search.
 
-Feel free to connect or explore more of my work!
+If you're interested in reading more, check out my blog: [blog](https://medium.com/@berkaydemirkol)
