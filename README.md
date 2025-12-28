@@ -11,5 +11,4 @@ I am currently working on building my own startup and simultaneously conduct res
 If you're interested in reading more, check out my [blog](https://medium.com/@berkaydemirkol)
 
 ### My Apps
-- [Narrativa](https://play.google.com/store/apps/details?id=com.selfadditive.narrativa)
 - [Cool PDF Editor](https://play.google.com/store/apps/details?id=com.coolpdfeditor)
