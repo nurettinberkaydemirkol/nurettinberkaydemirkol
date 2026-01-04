@@ -11,6 +11,7 @@ I am currently working on building my own startup and simultaneously conduct res
 If you're interested in reading more, check out my [blog](https://medium.com/@berkaydemirkol)
 
 ### My Projects
+- [Self Additive](https://selfadditive.com)
 - [SAVM](https://medium.com/@berkaydemirkol/savm-self-additive-vector-model-41c992b2bfc5)
 - [Cool PDF Editor](https://play.google.com/store/apps/details?id=com.coolpdfeditor)
 - [Resu: Professional CV Builder](https://play.google.com/store/apps/details?id=com.selfadditive.resucvbuilder)
