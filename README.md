@@ -14,4 +14,4 @@ If you're interested in reading more, check out my [blog](https://medium.com/@be
 - [Self Additive](https://selfadditive.com)
 - [SAVM](https://medium.com/@berkaydemirkol/savm-self-additive-vector-model-41c992b2bfc5)
 - [Cool PDF Editor](https://play.google.com/store/apps/details?id=com.coolpdfeditor)
-- [Resu: Professional CV Builder](https://play.google.com/store/apps/details?id=com.selfadditive.resucvbuilder)
+- [Android Resu: Professional CV Builder](https://play.google.com/store/apps/details?id=com.selfadditive.resucvbuilder) | [iOS Resu: Professional CV Builder](https://apps.apple.com/tr/app/resu-professional-cv-builder/id6757228701?l=tr) 
