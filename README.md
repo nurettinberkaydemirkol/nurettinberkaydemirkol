@@ -1,6 +1,6 @@
 # it's Nurettin Berkay Demirkol
 
-I am a software engineer with a strong interest in artificial intelligence. Currently, I founded my own startup Moviegen AI with $xxxK seed and I’m actively developing it, while independently conducting research on self-learning models in the field of AI.
+I am a software engineer with a strong interest in artificial intelligence. Currently, I founded my own startup Moviegen AI and I’m actively developing it, while independently conducting research on self-learning models in the field of AI.
 
 I am currently working on my own startup. I don’t need a job please **don't send** contracts.
 
