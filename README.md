@@ -2,7 +2,7 @@
 
 I am a software engineer with a strong interest in artificial intelligence. Currently, I founded my own startup Moviegen AI with $xxxK seed and I’m actively developing it, while independently conducting research on self-learning models in the field of AI.
 
-I am currently working on my own startup. I don’t need a job. I’ve never liked working.
+I am currently working on my own startup. I don’t need a job. I’ve **never liked working**.
 
 If you're interested in reading more, check out my [blog](https://medium.com/@berkaydemirkol)
 
