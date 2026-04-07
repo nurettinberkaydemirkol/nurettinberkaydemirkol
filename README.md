@@ -2,11 +2,7 @@
 
 I am a software engineer with a strong interest in artificial intelligence. Currently, I founded my own startup Moviegen AI with $xxxK seed and I’m actively developing it, while independently conducting research on self-learning models in the field of AI.
 
-I'm developing a self-learning AI model called **SAVM** and **N-SAVM**, designed to adapt and improve autonomously.  
-In addition, I'm building a lightweight and minimal vector search engine named **Schemantic**, inspired by FAISS and tailored for semantic web search.
-
-I am currently working on building my own startup and simultaneously conduct research on self-learning AI models.
-
+I am currently working on my own startup. I don’t need a job. I’ve never liked working.
 
 If you're interested in reading more, check out my [blog](https://medium.com/@berkaydemirkol)
 
