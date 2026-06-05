@@ -4,11 +4,9 @@
 
 I am a software engineer with a strong interest in artificial intelligence. Currently, I founded my own startup Moviegen AI and I’m actively developing it, while independently conducting research on self-learning models in the field of AI.
 
-Fun Fact: With my new project OttO, I’ll soon reduce your token costs by 90% It will be open source 🥱
+Fun Fact: With my new project OttO, I’ll soon reduce your token costs. It will be open source.
 
-I am currently working on my own startup. Please **don't send** contracts.
-
-If you're interested in reading more, check out my [blog](https://medium.com/@berkaydemirkol)
+I am currently working on my own startup. Please **don't send** contracts. If you're interested in reading more, check out my [blog](https://medium.com/@berkaydemirkol)
 
 ### My Projects
 - [Moviegen](https://moviegen.app)
