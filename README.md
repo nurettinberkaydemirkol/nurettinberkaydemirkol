@@ -13,3 +13,8 @@ If you're interested in reading more, check out my [blog](https://medium.com/@be
 - [SAVM](https://medium.com/@berkaydemirkol/savm-self-additive-vector-model-41c992b2bfc5)
 - [Cool PDF Editor](https://play.google.com/store/apps/details?id=com.coolpdfeditor)
 
+### 🛠️ Tech Stack
+- **Languages:** Rust, TypeScript, Python, C#
+- **Frontend & Mobile & Desktop:** React Native, React, Swift, Kotlin, NextJS, Tauri
+- **DevOps & Infrastructure:** Docker, Jenkins
+
