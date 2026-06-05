@@ -16,5 +16,6 @@ If you're interested in reading more, check out my [blog](https://medium.com/@be
 ### Tech Stack
 - **Languages:** Rust, TypeScript, Python, C#
 - **Frontend & Mobile & Desktop:** React Native, React, Swift, Kotlin, NextJS, Tauri
+- **Backend:** NodeJS, Axum, Flask
 - **DevOps & Infrastructure:** Docker, Jenkins
 
