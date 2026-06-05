@@ -16,7 +16,7 @@ I am currently working on my own startup. Please **don't send** contracts. If yo
 - [Cool PDF Editor](https://play.google.com/store/apps/details?id=com.coolpdfeditor)
 
 ### Tech Stack
-- **Languages:** Rust, TypeScript, Python, C#
+- **Languages:** Rust, TypeScript, Python, C++, C#
 - **Frontend & Mobile & Desktop:** React Native, React, Swift, Kotlin, NextJS, Tauri
 - **Backend:** NodeJS, Axum, Flask
 - **DevOps & Infrastructure:** Docker, Jenkins
