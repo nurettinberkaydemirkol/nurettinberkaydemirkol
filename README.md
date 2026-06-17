@@ -9,9 +9,9 @@ Fun Fact: With my new project OttO, I’ll soon reduce your token costs. It will
 I am currently working on my own startup. Please **don't send** contracts. If you're interested in reading more, check out my [blog](https://medium.com/@berkaydemirkol)
 
 ### My Projects
+- [Orca Video Player - Open Source React Native Video Player Library]([https://moviegen.app](https://github.com/Orca-Runtime/orca-video-player))
 - [Moviegen](https://moviegen.app)
 - [Moviegen AI - iOS](https://apps.apple.com/us/app/moviegen-ai/id6759353103)
-- [Moviegen AI - Android](https://play.google.com/store/apps/details?id=com.selfadditive.moviegenai)
 - [SAVM](https://medium.com/@berkaydemirkol/savm-self-additive-vector-model-41c992b2bfc5)
 - [Cool PDF Editor](https://play.google.com/store/apps/details?id=com.coolpdfeditor)
 
