@@ -1,6 +1,7 @@
 # it's Nurettin Berkay Demirkol
 
 ![](https://komarev.com/ghpvc/?username=USERNAME)
+[![Berkay Demirkol profile views](https://u8views.com/api/v1/github/profiles/90573081/views/day-week-month-total-count.svg)](https://u8views.com/github/nurettinberkaydemirkol)
 
 I am a software engineer with a strong interest in artificial intelligence. Currently, I founded my own startup Moviegen AI and I’m actively developing it, while independently conducting research on self-learning models in the field of AI.
 
