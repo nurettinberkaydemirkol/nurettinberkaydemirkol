@@ -1,7 +1,5 @@
 # it's Nurettin Berkay Demirkol
 
-![](https://komarev.com/ghpvc/?username=USERNAME)
-
 I am a software engineer with a strong interest in artificial intelligence. Currently, I founded my own startup Moviegen AI and I’m actively developing it, while independently conducting research on self-learning models in the field of AI.
 
 Fun Fact: With my new project OttO, I’ll soon reduce your token costs. It will be open source.
