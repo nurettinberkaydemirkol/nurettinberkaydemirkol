@@ -12,6 +12,9 @@ I am currently working on my own startup. Please **don't send** contracts. If yo
 - [SAVM](https://medium.com/@berkaydemirkol/savm-self-additive-vector-model-41c992b2bfc5)
 - [Cool PDF Editor](https://play.google.com/store/apps/details?id=com.coolpdfeditor)
 
+### Open Source
+- [React Native Orca Video Player](https://www.npmjs.com/package/@orca-runtime/orca-video-player)
+
 ### Tech Stack
 - **Languages:** Rust, TypeScript, Python, C++, C#
 - **Frontend & Mobile & Desktop:** React Native, React, Swift, Kotlin, NextJS, Tauri
